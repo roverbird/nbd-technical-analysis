@@ -116,3 +116,11 @@ Modify constants at the beginning of the script to customize:
 ## License
 
 This project is licensed under the MIT License.
+
+## Literature
+
+[Классификация категориальных рядов на основе модели негативно биномиального распределения с приложением в неврологии](https://www.statmod.ru/_diploma/2014/19_04_komarova.pdf)
+
+[Модель отрицательно биномиального распределения в анализе категориальных последовательностей](https://dspace.spbu.ru/bitstream/11701/43006/2/nb_model_in_sentiment_analysis.pdf)
+
+[The Negative Binomial Model of Word Usage](https://www.researchgate.net/publication/290273731_The_negative_binomial_model_of_word_usage)
